@@ -1,0 +1,16 @@
+#include <math.h>
+#include <stdio.h>
+int main(void) {
+
+int dis, min;
+
+printf("Digite a distancia do carro Y para o carro X: ");
+scanf("%d", &dis);
+
+min = 2 * dis
+
+printf(min, "minutos %d");
+
+  
+}
+  return 0;
